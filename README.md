@@ -19,7 +19,7 @@ I'm a backend-focused developer who likes trying new things and building the too
 
 I do not like stopping at “it works.” I want to understand why it works, where it fails, and how to make it dependable. Right now, my main focus is **JobTrack**, alongside smaller projects exploring developer tooling, AI-assisted products, and production web systems.
 
-Outside code, I am usually in the gym, playing EA FC, or spending time with people. I am outgoing, curious, and not particularly interested in mediocrity.
+Outside code, I am usually in the gym, playing EA FC, or spending time with people.
 
 > **Not satisfied with mediocrity.**
 
